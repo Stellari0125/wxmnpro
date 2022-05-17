@@ -1,0 +1,11 @@
+<swiper class="imgtst" indicator-dots="true" indicator-active-color="#fff"  circular="true">
+  <swiper-item>
+    <image src="https://tse1-mm.cn.bing.net/th/id/R-C.6ac17567cafd30b479be1c0962dc9c3d?rik=ugXcXe3T8Sd6tQ&riu=http%3a%2f%2fup.36992.com%2fpic%2f5a%2ff7%2f8e%2f5af78e45cd348afc816d127036871221.jpg&ehk=G9nCpghdotszR%2fXT%2bc%2fCUx%2bGkj7nene%2f76lJwyOeeHk%3d&risl=&pid=ImgRaw&r=0"></image>
+  </swiper-item>
+  <swiper-item>
+    <image src="https://img.zcool.cn/community/01ade35542ed1a0000019ae9789872.jpg@1280w_1l_2o_100sh.jpg"></image>
+  </swiper-item>
+  <swiper-item>
+    <image src="https://img.zcool.cn/community/015e565541cae90000011541031ea6.jpg@1280w_1l_2o_100sh.jpg"></image>
+  </swiper-item>
+</swiper>

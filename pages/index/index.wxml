@@ -1,0 +1,46 @@
+<!-- 点击事件 -->
+<!-- <view class="box" hover-class="boxHover">
+<view class="item" hover-class="itemHover" hover-stop-propagation>
+111
+</view>
+test miniapp</view> -->
+
+<!-- text 解码事件 对 html字符实体解码-->
+<!-- <view class="out">
+ <text>123456</text>
+ <text>2
+ <text decode="true"> &nbsp; &lt;</text>
+ 3456</text>
+</view> -->
+
+<!-- 按钮事件 空格 -->
+<!-- <text user-select="true" space="ensp">按钮测试     111111</text>
+<view>test</view> -->
+
+<!-- 页面跳转 -->
+<!-- <view>
+<navigator class="link" url="/pages/logs/logs" open-type="redirect">跳转到日志</navigator>
+<navigator class="link">跳转到日志</navigator>
+</view> -->
+
+<!-- 滚动视图  -->
+<!-- <scroll-view scroll-x="true" scroll-left="150">
+<view class="scrOut">
+  <view class="scrBox">111</view>
+  <view class="scrBox">222</view>
+  <view class="scrBox">333</view>
+  <view class="scrBox">444</view>
+  <view class="scrBox">555</view>
+</view>
+</scroll-view>
+
+<scroll-view scroll-y="true" >
+<view class="scrOut2">
+  <view class="scrBox2">111</view>
+  <view class="scrBox2">222</view>
+  <view class="scrBox2">333</view>
+  <view class="scrBox2">444</view>
+  <view class="scrBox2">555</view>
+</view>
+</scroll-view> -->
+
