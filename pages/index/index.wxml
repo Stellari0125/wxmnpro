@@ -1,9 +1,9 @@
 <!-- 点击事件 -->
-<!-- <view class="box" hover-class="boxHover">
+<view class="box" hover-class="boxHover">
 <view class="item" hover-class="itemHover" hover-stop-propagation>
 111
 </view>
-test miniapp</view> -->
+test miniapp</view>
 
 <!-- text 解码事件 对 html字符实体解码-->
 <!-- <view class="out">
