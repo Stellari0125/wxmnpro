@@ -1,0 +1,26 @@
+<!--pages/demo2/demo2.wxml-->
+<view>testjson动态数据-{{title}}</view>
+{{content}}
+<view>
+{{obj.name}}-{{obj.tunhuo}}
+</view>
+
+<view wx:if="{{false}}">false</view>
+<view wx:else>true</view>
+
+<view wx:if="{{day==1}}">周一</view>
+<view wx:elif="{{day==2}}">周二</view>
+<view wx:elif="{{day==3}}">周三</view>
+<view wx:elif="{{day==4}}">周四</view>
+<view wx:elif="{{day==5}}">周五</view>
+<view wx:elif="{{day==6}}">周六</view>
+<view wx:elif="{{day==7}}">周日</view>
+<view wx:else>错误</view>
+
+<block wx:if="{{true}}">
+ <view>1</view>
+ <view>2</view>
+</block>
+<block wx:else>
+<view>3</view>
+</block>
